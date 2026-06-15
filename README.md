@@ -20,4 +20,35 @@ Here is a log of the architectures and concepts I have implemented so far:
 
 | Project / Architecture | Description | Code / Notebook |
 | :--- | :--- | :--- |
-| **AlexNet (from scratch)** | Implementation of the classic 2012 AlexNet CNN architecture using Keras Sequential API. Includes Conv blocks, Max Pooling, and Fully Connected layers. | [`AlexNet_Architechture.ipynb`](./AlexNet_Architechture.ipynb) |
+| **Credit Card Customer Churn Prediction** | Artificial Neural Network model used to predict customer churn using credit card data. | [`Credit-card-customer-churn-prediction.ipynb`](./Credit-card-customer-churn-prediction.ipynb) |
+| **AlexNet (From Scratch)** | Implementation of the classic 2012 AlexNet CNN architecture using Keras Sequential API. Includes Conv blocks, Max Pooling, and Fully Connected layers. | [`AlexNet_Architechture.ipynb`](./AlexNet_Architechture.ipynb) |
+
+## ⚙️ Setup & Installation
+
+To run the notebooks in this repository locally, you'll need to set up a Python environment with the required dependencies.
+
+1. **Clone the repository (if hosted on GitHub):**
+   ```bash
+   git clone https://github.com/your-username/Learning-DL.git
+   cd Learning-DL
+   ```
+
+2. **Create a Conda Environment (Recommended):**
+   ```bash
+   conda create -n dl_env python=3.10
+   conda activate dl_env
+   ```
+
+3. **Install Dependencies:**
+   ```bash
+   pip install tensorflow numpy pandas matplotlib jupyter visualkeras 
+   conda install -y -c conda-forge graphviz pydot # for plot_model visualizations
+   ```
+
+## 📚 Resources & References
+* [TensorFlow / Keras Documentation](https://www.tensorflow.org/api_docs)
+* [ImageNet Classification with Deep Convolutional Neural Networks (AlexNet Paper)](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
+
+---
+*Happy Learning! 🚀 Feel free to explore the notebooks to see the code in action.*
+
