@@ -24,6 +24,7 @@ Here is a log of the architectures and concepts I have implemented so far:
 | **AlexNet (From Scratch)** | Implementation of the classic 2012 AlexNet CNN architecture using Keras Sequential API. Includes Conv blocks, Max Pooling, and Fully Connected layers. | [`AlexNet_Architechture.ipynb`](./AlexNet_Architechture.ipynb) |
 | **MNIST Dataset Classification** | Artificial Neural Network (ANN) used to classify handwritten digits from the MNIST dataset. | [`mnist-data.ipynb`](./mnist-data.ipynb) |
 | **Transfer Learning with VGG16** | Implementation of Transfer Learning (Feature Extraction and Fine-Tuning) using the pre-trained VGG16 model on a Cats vs. Dogs dataset. | [`Transfer-learning.ipynb`](./Transfer-learning.ipynb) |
+| **Data Augmentation** | Demonstrates image data augmentation techniques using Keras `ImageDataGenerator` and training a custom CNN model from scratch. | [`Data-Augmentation.ipynb`](./Data-Augmentation.ipynb) |
 
 ## ⚙️ Setup & Installation
 
