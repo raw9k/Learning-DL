@@ -25,6 +25,9 @@ Here is a log of the architectures and concepts I have implemented so far:
 | **MNIST Dataset Classification** | Artificial Neural Network (ANN) used to classify handwritten digits from the MNIST dataset. | [`mnist-data.ipynb`](./mnist-data.ipynb) |
 | **Transfer Learning with VGG16** | Implementation of Transfer Learning (Feature Extraction and Fine-Tuning) using the pre-trained VGG16 model on a Cats vs. Dogs dataset. | [`Transfer-learning.ipynb`](./Transfer-learning.ipynb) |
 | **Data Augmentation** | Demonstrates image data augmentation techniques using Keras `ImageDataGenerator` and training a custom CNN model from scratch. | [`Data-Augmentation.ipynb`](./Data-Augmentation.ipynb) |
+| **CNN Visualization** | Notebook for visualizing CNN behavior, feature maps, and model internals. | [`CNN-Visualization.ipynb`](./CNN-Visualization.ipynb) |
+| **Functional API Demo** | Basic demonstration of building a model with the Keras Functional API. | [`functional-api-demo.ipynb`](./functional-api-demo.ipynb) |
+| **Functional API Practicals** | Practical example of multi-output classification with the Keras Functional API. | [`Functional-api-practicals.ipynb`](./Functional-api-practicals.ipynb) |
 
 ## ⚙️ Setup & Installation
 
