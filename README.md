@@ -28,6 +28,8 @@ Here is a log of the architectures and concepts I have implemented so far:
 | **CNN Visualization** | Notebook for visualizing CNN behavior, feature maps, and model internals. | [`CNN-Visualization.ipynb`](./CNN-Visualization.ipynb) |
 | **Functional API Demo** | Basic demonstration of building a model with the Keras Functional API. | [`functional-api-demo.ipynb`](./functional-api-demo.ipynb) |
 | **Functional API Practicals** | Practical example of multi-output classification with the Keras Functional API. | [`Functional-api-practicals.ipynb`](./Functional-api-practicals.ipynb) |
+| **RNN Architecture** | Demonstrates the architecture and workflow of building recurrent neural networks for sequence data. | [`RNN-Architecture.ipynb`](./RNN-Architecture.ipynb) |
+| **RNN Sentiment Analysis** | Uses an RNN-based model for sentiment analysis on text data. | [`RNN-Sentiment-Analysis.ipynb`](./RNN-Sentiment-Analysis.ipynb) |
 
 ## ⚙️ Setup & Installation
 
